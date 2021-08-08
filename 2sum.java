@@ -1,4 +1,4 @@
-
+//This is basic approach. It takes O(n^2) time.
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         
